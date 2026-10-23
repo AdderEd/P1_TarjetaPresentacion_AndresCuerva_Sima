@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P1_TarjetaPresentacion_AndresCuerva_Sima</string>
+    <string name="nombreAPP">Android</string>
+    <string name="nombres">Andrés y Sima</string>
+    <string name="titulo">Inspectores de código</string>
+    <string name="instituto">IES Virgen de la Paloma</string>
+    <string name="correoAndres">andrescuerva@palomafp.org</string>
+    <string name="correoSima">simaparajua@palomafp.org</string>
+</resources>
